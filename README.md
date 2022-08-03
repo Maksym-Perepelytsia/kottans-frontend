@@ -4,6 +4,8 @@
 0. Git Basics
 
 <details><summary>Results</summary>
-<img src="/img/Git%20and%20GitHub%20Introduction.jpg" alt="Git and GitHub Introduction screenshot" title="Git & GitHub Introduction">
-<img src="/img/Git%20and%20GitHub%20Push%20and%20Pull.jpg" alt="Git & GitHub Push and Pull screenshot" title="Git & GitHub Push and Pull">
+<img src="/img/Introduction-to-Version-Control.jpg" alt="Introduction to Version Control screenshot" title="Introduction to Version Control">
+<img src="/img/Using-Git-Locally.jpg" alt="Using Git Locally screenshot" title="Using Git Locally">
+<img src="/img/Git-and-GitHub-Introduction.jpg" alt="Git and GitHub Introduction screenshot" title="Git & GitHub Introduction">
+<img src="/img/Git-and-GitHub-Push-and-Pull.jpg" alt="Git & GitHub Push and Pull screenshot" title="Git & GitHub Push and Pull">
 </details>
