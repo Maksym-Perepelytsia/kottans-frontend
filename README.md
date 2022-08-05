@@ -3,7 +3,7 @@
 ## General
 - [X] 0. [Git Basics](#git-basics) 
 - [x] 1. [Linux CLI and Networking](#linux-cli-and-http)
-- [ ] 2. VCS (hello gitty), GitHub and Collaboration
+- [ ] 2. [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
 
 ## Front-End Basic
 - [ ] 3. Intro to HTML & CSS
@@ -39,3 +39,6 @@
 <img src="/task_linux_cli/Linux-Survival-Quiz-3.jpg" alt="Linux Survival Quiz screenshot #3" title="Linux Survival Quiz screenshot #3">
 <img src="/task_linux_cli/Linux-Survival-Quiz-4.jpg" alt="Linux Survival Quiz screenshot #4" title="Linux Survival Quiz screenshot #4">
 </details>
+
+### Git Collaboration
+<p>This part is still in progress.</p>
