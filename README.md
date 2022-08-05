@@ -2,7 +2,7 @@
 
 ## General
 - [X] 0. [Git Basics](#git-basics) 
-- [ ] 1. Linux CLI and Networking
+- [x] 1. [Linux CLI and Networking](#linux-cli-and-http)
 - [ ] 2. VCS (hello gitty), GitHub and Collaboration
 
 ## Front-End Basic
@@ -30,3 +30,5 @@
 <img src="/img/Git-and-GitHub-Introduction.jpg" alt="Git and GitHub Introduction screenshot" title="Git & GitHub Introduction">
 <img src="/img/Git-and-GitHub-Push-and-Pull.jpg" alt="Git & GitHub Push and Pull screenshot" title="Git & GitHub Push and Pull">
 </details>
+
+### Linux CLI and HTTP
