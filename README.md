@@ -32,3 +32,10 @@
 </details>
 
 ### Linux CLI and HTTP
+<p>This was very interesting experience. I have to practice more because I know that I'm going to use it very often.</p>
+<details><summary>Results</summary>
+<img src="/task_linux_cli/Linux-Survival-Quiz-1.jpg" alt="Linux Survival Quiz screenshot #1" title="Linux Survival Quiz screenshot #1">
+<img src="/task_linux_cli/Linux-Survival-Quiz-2.jpg" alt="Linux Survival Quiz screenshot #2" title="Linux Survival Quiz screenshot #2">
+<img src="/task_linux_cli/Linux-Survival-Quiz-3.jpg" alt="Linux Survival Quiz screenshot #3" title="Linux Survival Quiz screenshot #3">
+<img src="/task_linux_cli/Linux-Survival-Quiz-4.jpg" alt="Linux Survival Quiz screenshot #4" title="Linux Survival Quiz screenshot #4">
+</details>
