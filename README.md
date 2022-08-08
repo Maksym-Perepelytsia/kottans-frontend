@@ -42,3 +42,7 @@
 
 ### Git Collaboration
 <p>This part is still in progress.</p>
+<details><summary>Results</summary>
+<img src="/task_git_collaboration/Working-With-Remotes.jpg" alt="Working-With-Remotes screenshot" title="Working-With-Remotes screenshot">
+<img src="/task_git_collaboration/Collaboration.jpg" alt="Collaboration screenshot" title="Collaboration screenshot">
+</details>
