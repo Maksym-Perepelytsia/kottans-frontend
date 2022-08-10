@@ -45,4 +45,6 @@
 <details><summary>Results</summary>
 <img src="/task_git_collaboration/Working-With-Remotes.jpg" alt="Working-With-Remotes screenshot" title="Working-With-Remotes screenshot">
 <img src="/task_git_collaboration/Collaboration.jpg" alt="Collaboration screenshot" title="Collaboration screenshot">
+<img src="/task_git_collaboration/Git-and-Github-Main.jpg" alt="Git and Github Main screenshot" title="Git and Github Main screenshot">
+<img src="/task_git_collaboration/Git-and-Github-Remote.jpg" alt="Git and Github Remote screenshot" title="Git and Github Remote screenshot">
 </details>
