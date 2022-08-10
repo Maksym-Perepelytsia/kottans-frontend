@@ -6,7 +6,7 @@
 - [x] 2. [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
 
 ## Front-End Basic
-- [ ] 3. Intro to HTML & CSS
+- [ ] 3. [Intro to HTML & CSS](#intro-to-html-and-css)
 - [ ] 4. Responsive Web Design
 - [ ] 5. HTML & CSS Practice
 - [ ] 6. JavaScipt Basics
@@ -49,7 +49,7 @@
 <img src="/task_git_collaboration/Git-and-Github-Remote.jpg" alt="Git and Github Remote screenshot" title="Git and Github Remote screenshot">
 </details>
 
-### Intro to HTML & CSS
+### Intro to HTML and CSS
 <p>This part is still in progress.</p>
 <details><summary>Results</summary>
 </details>
