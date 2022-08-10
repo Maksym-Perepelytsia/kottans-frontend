@@ -3,7 +3,7 @@
 ## General
 - [X] 0. [Git Basics](#git-basics) 
 - [x] 1. [Linux CLI and Networking](#linux-cli-and-http)
-- [ ] 2. [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
+- [x] 2. [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
 
 ## Front-End Basic
 - [ ] 3. Intro to HTML & CSS
@@ -41,10 +41,15 @@
 </details>
 
 ### Git Collaboration
-<p>This part is still in progress.</p>
+<p>This part was very confusing and challenging for me. I must practice <a href="https://learngitbranching.js.org/?locale=uk" target="_blank">https://learngitbranching.js.org/</a> few more times.</p>
 <details><summary>Results</summary>
 <img src="/task_git_collaboration/Working-With-Remotes.jpg" alt="Working-With-Remotes screenshot" title="Working-With-Remotes screenshot">
 <img src="/task_git_collaboration/Collaboration.jpg" alt="Collaboration screenshot" title="Collaboration screenshot">
 <img src="/task_git_collaboration/Git-and-Github-Main.jpg" alt="Git and Github Main screenshot" title="Git and Github Main screenshot">
 <img src="/task_git_collaboration/Git-and-Github-Remote.jpg" alt="Git and Github Remote screenshot" title="Git and Github Remote screenshot">
+</details>
+
+### Intro to HTML & CSS
+<p>This part is still in progress.</p>
+<details><summary>Results</summary>
 </details>
