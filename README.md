@@ -60,6 +60,12 @@
 
 ### Responsive Web Design
 
+**Responsive web design basics**
+
+> `<meta name="viewport" content="width=device-width, initial-scale=1">`
+
+> To ensure that older browsers can properly parse the attributes, use a comma to separate attributes.
+
 <p>This part is still in progress.</p>
 <details><summary>Results</summary>
 </details>
