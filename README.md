@@ -6,8 +6,8 @@
 - [x] 2. [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
 
 ## Front-End Basic
-- [ ] 3. [Intro to HTML & CSS](#intro-to-html-and-css)
-- [ ] 4. Responsive Web Design
+- [x] 3. [Intro to HTML & CSS](#intro-to-html-and-css)
+- [ ] 4. [Responsive Web Design](#responsive-web-design)
 - [ ] 5. HTML & CSS Practice
 - [ ] 6. JavaScipt Basics
 - [ ] 7. Document Object Model - practice 
@@ -50,6 +50,15 @@
 </details>
 
 ### Intro to HTML and CSS
+<p>This part wasn't something new to me. I've studied HTML and CSS before, and it was good to refresh my knowledge.</p>
+<details><summary>Results</summary>
+<img src="/task_html_css_intro/Coursera-Introduction-to-HTML5.jpg" alt="Coursera - Introduction to HTML5 screenshot" title="Coursera - Introduction to HTML5 screenshot">
+<img src="/task_html_css_intro/Coursera-Introduction-to-CSS3.jpg" alt="Coursera - Introduction to CSS3 screenshot" title="Coursera - Introduction to CSS3 screenshot">
+<img src="/task_html_css_intro/Codecademy-HTML-CSS.jpg" alt="Codecademy - HTML and CSS screenshot" title="Codecademy - HTML and CSS screenshot">
+</details>
+
+### Responsive Web Design
+
 <p>This part is still in progress.</p>
 <details><summary>Results</summary>
 </details>
