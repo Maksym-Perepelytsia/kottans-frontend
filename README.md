@@ -7,8 +7,8 @@
 
 ## Front-End Basic
 - [x] 3. [Intro to HTML & CSS](#intro-to-html-and-css)
-- [ ] 4. [Responsive Web Design](#responsive-web-design)
-- [ ] 5. HTML & CSS Practice
+- [x] 4. [Responsive Web Design](#responsive-web-design)
+- [ ] 5. [HTML & CSS Practice]()
 - [ ] 6. JavaScipt Basics
 - [ ] 7. Document Object Model - practice 
 
@@ -60,8 +60,6 @@
 
 ### Responsive Web Design
 
-**Responsive web design basics**
-
 <p>These tasks were interesting to me. And the games were very nice to check if I learned well.</p>
 
 <details><summary>Results</summary>
@@ -71,4 +69,9 @@
 
 <img src="/task_responsive_web_design/Responsive-Web-Design-Flexbox-Froggy.jpg" alt="Responsive Web Design - Flexbox Froggy screenshot" title="Responsive Web Design - Flexbox Froggy screenshot">
 <img src="/task_responsive_web_design/Responsive-Web-Design-Grid-Garden.jpg" alt="Responsive Web Design - Grid-Garden screenshot" title="Responsive Web Design - Grid-Garden screenshot">
+</details>
+
+### HTML and CSS Practice
+<p>This part is still in progress.</p>
+<details><summary>Results</summary>
 </details>
