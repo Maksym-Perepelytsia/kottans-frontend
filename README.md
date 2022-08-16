@@ -62,10 +62,13 @@
 
 **Responsive web design basics**
 
-> `<meta name="viewport" content="width=device-width, initial-scale=1">`
+<p>These tasks were interesting to me. And the games were very nice to check if I learned well.</p>
 
+<details><summary>Results</summary>
+
+> `<meta name="viewport" content="width=device-width, initial-scale=1">`
 > To ensure that older browsers can properly parse the attributes, use a comma to separate attributes.
 
-<p>This part is still in progress.</p>
-<details><summary>Results</summary>
+<img src="/task_responsive_web_design/Responsive-Web-Design-Flexbox-Froggy.jpg" alt="Responsive Web Design - Flexbox Froggy screenshot" title="Responsive Web Design - Flexbox Froggy screenshot">
+<img src="/task_responsive_web_design/Responsive-Web-Design-Grid-Garden.jpg" alt="Responsive Web Design - Grid-Garden screenshot" title="Responsive Web Design - Grid-Garden screenshot">
 </details>
