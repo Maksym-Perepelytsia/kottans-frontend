@@ -75,11 +75,11 @@
 <p>This part was very interesting and challenging. For the first time I navigated and tested website with a keyboard.</p>
 <details><summary>Results</summary>
 
-[Demo](https://maksym-perepelytsia.github.io/html-css-popup/) | [Code base](https://github.com/Maksym-Perepelytsia/html-css-popup)
+<a href="https://maksym-perepelytsia.github.io/html-css-popup/" target="_blank">Demo</a> | <a href="https://github.com/Maksym-Perepelytsia/html-css-popup" target="_blank">Code base</a>
 
 </details>
 
-## JS Basics
+### JS Basics
 <p>This part is still in progress.</p>
 <details><summary>Results</summary>
 
