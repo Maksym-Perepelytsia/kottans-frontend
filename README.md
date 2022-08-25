@@ -75,8 +75,7 @@
 <p>This part was very interesting and challenging. For the first time I navigated and tested website with a keyboard.</p>
 <details><summary>Results</summary>
 
-<p><a href="https://maksym-perepelytsia.github.io/html-css-popup/" target="_blank">Demo</a></p>
-<p><a href="https://github.com/Maksym-Perepelytsia/html-css-popup" target="_blank">Code base</a></p>
+[Demo](https://maksym-perepelytsia.github.io/html-css-popup/) | [Code base](https://github.com/Maksym-Perepelytsia/html-css-popup)
 
 </details>
 
