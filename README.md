@@ -8,8 +8,8 @@
 ## Front-End Basic
 - [x] 3. [Intro to HTML & CSS](#intro-to-html-and-css)
 - [x] 4. [Responsive Web Design](#responsive-web-design)
-- [ ] 5. [HTML & CSS Practice](#html-and-css-practice)
-- [ ] 6. JavaScipt Basics
+- [x] 5. [HTML & CSS Practice](#html-and-css-practice)
+- [ ] 6. [JavaScipt Basics](#js-basics)
 - [ ] 7. Document Object Model - practice 
 
 ## Advansed Topics
@@ -72,6 +72,15 @@
 </details>
 
 ### HTML and CSS Practice
+<p>This part was very interesting and challenging. For the first time I navigated and tested website with a keyboard.</p>
+<details><summary>Results</summary>
+
+[Demo](https://maksym-perepelytsia.github.io/html-css-popup/) | [Code base](https://github.com/Maksym-Perepelytsia/html-css-popup)
+
+</details>
+
+## JS Basics
 <p>This part is still in progress.</p>
 <details><summary>Results</summary>
+
 </details>
